@@ -11,8 +11,13 @@ The dataset provided is the Sentiment140 Dataset which consists of 1,600,000 twe
 The various columns present in this Twitter data are:
 
   1 . ids: Unique id of the tweet
+  
   2 . date: the date of the tweet
+  
   3 . flag: It refers to the query. If no such query exists, then it is NO QUERY.
+  
   4 . user: It refers to the name of the user that tweeted
+  
   5 . text: It refers to the text of the tweet
+  
   6 . target: the polarity of the tweet (positive or negative)
